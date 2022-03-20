@@ -1,0 +1,11 @@
+1. Download your preffered image (Must be png format).
+2. Then named it to "Original".
+3. Don't delete the Sketch image file, it may crash the app.
+4. Save it to App directory.
+5. Open the App by double clicking it.
+6. Now you can see your Original image in the left section.
+7. Simply click on "Convert" button.
+8. Close the App and check the App directory.Your Sketch image will be stored there.
+9. Enjoy & Happy Coding !
+
+@Copyrighted by Bishnudev Khutia
